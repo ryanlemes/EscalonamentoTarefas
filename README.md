@@ -1,1 +1,3 @@
 # Escalonamento de Tarefas
+
+Seja X = {x1, x2, ..., xn} um conjunto de T tarefas computacionais; sendo ti o tempo necessário para processar xi e W o tempo total disponível para processamento no sistema. Selecione o subconjunto de tarefas Z ⊂ X de tal forma que o tempo ocioso do sistema computacional seja minimizado. As soluções devem ser apresentadas utilizando força bruta, algoritmo guloso e programação dinâmica, conforme estudado nas aulas. O grupo pode usar o gerador de conjuntos aleatórios fornecidos no material da disciplina. As implementações devem investigar: (a) o tempo necessário para resolver cada instância do problema proposto e (b) o tamanho do maior conjunto possível com solução fornecida no tempo máximo de 5 segundos.
