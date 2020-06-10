@@ -1,0 +1,11 @@
+C:\Users\RyanLemesBezerra\source\repos\EscalonamentoTarefas\EscalonamentoTarefas\bin\Debug\netcoreapp2.2\EscalonamentoTarefas.deps.json
+C:\Users\RyanLemesBezerra\source\repos\EscalonamentoTarefas\EscalonamentoTarefas\bin\Debug\netcoreapp2.2\EscalonamentoTarefas.runtimeconfig.json
+C:\Users\RyanLemesBezerra\source\repos\EscalonamentoTarefas\EscalonamentoTarefas\bin\Debug\netcoreapp2.2\EscalonamentoTarefas.runtimeconfig.dev.json
+C:\Users\RyanLemesBezerra\source\repos\EscalonamentoTarefas\EscalonamentoTarefas\bin\Debug\netcoreapp2.2\EscalonamentoTarefas.dll
+C:\Users\RyanLemesBezerra\source\repos\EscalonamentoTarefas\EscalonamentoTarefas\bin\Debug\netcoreapp2.2\EscalonamentoTarefas.pdb
+C:\Users\RyanLemesBezerra\source\repos\EscalonamentoTarefas\EscalonamentoTarefas\obj\Debug\netcoreapp2.2\EscalonamentoTarefas.csprojAssemblyReference.cache
+C:\Users\RyanLemesBezerra\source\repos\EscalonamentoTarefas\EscalonamentoTarefas\obj\Debug\netcoreapp2.2\EscalonamentoTarefas.csproj.CoreCompileInputs.cache
+C:\Users\RyanLemesBezerra\source\repos\EscalonamentoTarefas\EscalonamentoTarefas\obj\Debug\netcoreapp2.2\EscalonamentoTarefas.AssemblyInfoInputs.cache
+C:\Users\RyanLemesBezerra\source\repos\EscalonamentoTarefas\EscalonamentoTarefas\obj\Debug\netcoreapp2.2\EscalonamentoTarefas.AssemblyInfo.cs
+C:\Users\RyanLemesBezerra\source\repos\EscalonamentoTarefas\EscalonamentoTarefas\obj\Debug\netcoreapp2.2\EscalonamentoTarefas.dll
+C:\Users\RyanLemesBezerra\source\repos\EscalonamentoTarefas\EscalonamentoTarefas\obj\Debug\netcoreapp2.2\EscalonamentoTarefas.pdb
